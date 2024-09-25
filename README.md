@@ -14,3 +14,7 @@ Proyek ini bertujuan untuk mengembangkan sistem gorden otomatis yang dapat membu
 - Motor Servo: Untuk membuka dan menutup gorden.
 - Sensor: Sensor cahaya (LDR) untuk deteksi kondisi pencahayaan.
 - Aplikasi Mobile/Web: Untuk kontrol jarak jauh dan pengaturan waktu.
+
+## Source
+- https://github.com/DanGunvald/AutomaticCurtain.git
+- https://github.com/nlamprian/AlarmClock
