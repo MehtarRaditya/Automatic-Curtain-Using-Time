@@ -17,4 +17,3 @@ Proyek ini bertujuan untuk mengembangkan sistem gorden otomatis yang dapat membu
 
 ## Source
 - https://github.com/DanGunvald/AutomaticCurtain.git
-- https://github.com/nlamprian/AlarmClock
